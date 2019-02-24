@@ -1,0 +1,7 @@
+{
+"version": "18.10",
+"hash": "SHA256",
+"gpg": true,
+"key": "0x46181433FBB75451",
+"keyserver": "hkp://keyserver.ubuntu.com"
+}
