@@ -1,0 +1,8 @@
+{
+    "version": "18.0.3",
+    "hash": "SHA1",
+    "gpg": true,
+    "sigfileiso": "manjaro-xfce-18.0.3-stable-x86_64.iso.sig",
+    "key": "0x11C7F07E",
+    "keyserver": "hkp://pool.sks-keyservers.net"
+}

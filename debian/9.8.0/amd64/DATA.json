@@ -1,0 +1,8 @@
+{
+    "version": "9.8.0",
+    "hash": "SHA256",
+    "gpg": true,
+    "sigfileiso": false,
+    "key": "0x09EA8AC3 0x6294BE9B 0x64E6EA7D",
+    "keyserver": "hkp://keyring.debian.org"
+}

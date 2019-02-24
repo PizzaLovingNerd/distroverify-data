@@ -1,0 +1,8 @@
+{
+    "version": "18.04.2",
+    "hash": "SHA256",
+    "gpg": true,
+    "sigfileiso": false,
+    "key": "0x46181433FBB75451 0xD94AA3F0EFE21092",
+    "keyserver": "hkp://keyserver.ubuntu.com"
+}

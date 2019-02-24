@@ -1,0 +1,8 @@
+{
+    "version": "3.9999",
+    "hash": "SHA256",
+    "gpg": true,
+    "sigfileiso": false,
+    "key": "0x96B4A0291094A86A2B7E3367DD672FE9A2BE5892",
+    "keyserver": "pool.sks-keyservers.net"
+}

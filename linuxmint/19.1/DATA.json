@@ -1,0 +1,8 @@
+{
+    "version": "19.1",
+    "hash": "SHA256",
+    "gpg": true,
+    "sigfileiso": false,
+    "key": "0x27DEB15644C6B3CF3BD7D291300F846BA25BAE09",
+    "keyserver": "hkp://keyserver.ubuntu.com"
+}

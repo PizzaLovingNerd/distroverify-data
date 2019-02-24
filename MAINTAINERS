@@ -1,0 +1,10 @@
+# MAINTAINERS file
+# Here is a lsit of distro MAINTAINERS
+# If a maintainer has a "TEMPOARY" or a "INACTIVE" beisde his name, feel free to open a PR and replace the name with your one,
+# to become the new maintainer of the certain distro
+
+Lead Maintainer: Emil Engler <me@emilengler.com>
+
+Debian: Emil Engler <me@emilengler.com> TEMPOARY
+Manjaro: Emil Engler <me@emilengler.com> TEMPOARY
+Ubuntu: Emil Engler <me@emilengler.com>

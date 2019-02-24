@@ -1,0 +1,12 @@
+{
+    "ubuntu-18.04.2-desktop-amd64.iso": "ubuntu/18.04.2/desktop/amd64/",
+    "ubuntu-18.10-desktop-amd64.iso": "ubuntu/18.10/desktop/amd64/",
+    "debian-9.8.0-amd64-netinst.iso": "debian/9.8.0/amd64/",
+    "manjaro-xfce-18.0.3-stable-x86_64.iso": "manjaro/xfce/18.0.3/amd64/",
+    "manjaro-kde-18.0.3-stable-x86_64.iso": "manjaro/kde/18.0.3/amd64/",
+    "manjaro-gnome-18.0.3-stable-x86_64.iso": "manjaro/gnome/18.0.3/amd64/",
+    "linuxmint-19.1-": "/linuxmint/19.1/",
+    "Solus-3.9999-Budgie.iso": "/solus/budgie/",
+    "Solus-3.9999-GNOME.iso": "/solus/gnome/",
+    "Solus-3.9999-MATE.iso": "/solus/mate/"
+}
